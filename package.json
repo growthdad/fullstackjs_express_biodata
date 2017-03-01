@@ -1,0 +1,26 @@
+{
+  "name": "website-biodata-with-express",
+  "version": "1.0.0",
+  "description": "Build website biodata with express\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dnodejs\u001b[-express",
+  "main": "app.js",
+  "scripts": {
+    "test": "Test biodata"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaroedin/NodejsExpress-biodata.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "amarudhien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amaroedin/NodejsExpress-biodata/issues"
+  },
+  "homepage": "https://github.com/amaroedin/NodejsExpress-biodata#readme",
+  "dependencies": {
+    "ejs": "^2.5.6"
+  }
+}
